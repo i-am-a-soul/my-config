@@ -1,0 +1,11 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "editor.autoClosingBrackets": "never",
+    "workbench.colorTheme": "Solarized-light",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+}
